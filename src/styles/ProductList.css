@@ -1,0 +1,11 @@
+.productList {
+  align-items: stretch;
+  align-content: space-between;
+  background-color: rgb(240, 240, 240);
+  border: 1px;
+  display: flex;
+  flex-flow: row wrap;
+  margin: 10px auto;
+  padding: 20px;
+  width: 95%;
+}
